@@ -1,7 +1,7 @@
 ![Bash](https://img.shields.io/badge/shell-bash-green)
 ![AWS CLI](https://img.shields.io/badge/AWS-CLI-orange)
 
-# 🚀 AWS Resources Lister 
+# 🚀 AWS Resource Lister 
 A **Bash script** to automate listing of AWS resources across multiple services.  
 Useful for auditing, compliance, cost optimization, and quick visibility into an AWS account.
 ---
@@ -89,3 +89,4 @@ aws-resource-lister/
 
 
    
+
